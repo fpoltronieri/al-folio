@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - fpoltronieri
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - DSG-UniFE/KubeTwin
+  - DSG-UniFE/phileas
+  - DSG-UniFE/spf
+  - DSG-UniFE/bdmaas-plus-core
+
