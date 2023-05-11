@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 <br>
 <br>
 <br>
-I am a Research Fellow (RTD-A) at the Department of Engineering, University of Ferrara, Ferrara, Italy. 
+I am an Assistant Professor (RTD-A) at the Department of Engineering, University of Ferrara, Ferrara, Italy. 
 
 My research interests focus on the study of Distributed Systems and I am currently working on several topics: IoT, service placement and resource management for Edge/Fog Computing, service optimization, and Cloud Computing. 
 
