@@ -9,7 +9,7 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
-RoamML MILCOM paper [Download]({{ site.url }}/assets/pdf/roamml_milcom_paper.pdf).
+RoamML's MILCOM paper [Download]({{ site.url }}/assets/pdf/roamml_milcom_paper.pdf).
 
 <div class="publications">
 
