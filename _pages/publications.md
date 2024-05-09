@@ -3,13 +3,11 @@ layout: page
 permalink: /publications/
 title: Publications
 description: List of pubblications.
-years: [2023,2022, 2021, 2020, 2019, 2018]
+years: [2024,2023,2022, 2021, 2020, 2019, 2018]
 nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-
-RoamML's MILCOM paper [Download]({{ site.url }}/assets/pdf/roamml_milcom_paper.pdf).
 
 <div class="publications">
 

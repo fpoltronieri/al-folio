@@ -21,9 +21,14 @@ social: true  # includes social icons at the bottom of the page
 <br>
 <br>
 <br>
-I am an Assistant Professor (RTD-A) at the Department of Engineering, University of Ferrara, Ferrara, Italy. 
+I am an Assistant Professor (RTD-A) at the Department of Engineering, University of Ferrara, Ferrara, Italy.
 
-My research interests focus on the study of Distributed Systems and I am currently working on several topics: IoT, service placement and resource management for Edge/Fog Computing, service optimization, and Cloud Computing. 
+I received the Ph.D. degree in Engineering Science from the University of Ferrara, in 2021. 
+I collaborate with national and international institutions such as the Florida IHMC, Pensacola, USA.
+My research interests reside in the network and service management areas. There I am looking into 
+Value-of-Information, Digital Twins, and Optimization techniques for Service Orchestration and management
+across the Compute Continuum. Filippo received the Best Student paper award at
+NOMS 2020 and the Best Paper award at CNSM 2023.
 
 <!--
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
